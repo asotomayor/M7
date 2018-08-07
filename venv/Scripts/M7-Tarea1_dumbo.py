@@ -1,4 +1,4 @@
-# MapReduce
+# MapReduce Program
 import csv
 
 from dumbo import main
